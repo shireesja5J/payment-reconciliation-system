@@ -1,9 +1,0 @@
-{
-  "merchants.csv": "c8eb06665a1f80d8abd018f87b90eb20",
-  "payment_orders.csv": "9fe585861b96fb98a00d5976f18b71e2",
-  "payment_attempts.csv": "ee92662d2c2d7e864a39d400c6836b1b",
-  "processor_events.csv": "25e17fd2aa92838f21a1f1dfec6fac56",
-  "settlement_batches.csv": "7e48768bc0e59e02bf23951bd42850d9",
-  "settlement_lines.csv": "686ce72e9ce021f13a5040f98f5479c5",
-  "bank_lines.csv": "1473b0d1d0ac4edfb77ed8b345192964"
-}
