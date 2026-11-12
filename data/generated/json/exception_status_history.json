@@ -1,0 +1,524 @@
+[
+  {
+    "history_id":"HST-2026-000001",
+    "exception_id":"EXC-2026-000001",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T00:22:44",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000002",
+    "exception_id":"EXC-2026-000002",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T00:52:24",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000003",
+    "exception_id":"EXC-2026-000003",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T01:25:08",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000004",
+    "exception_id":"EXC-2026-000004",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T02:07:06",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000005",
+    "exception_id":"EXC-2026-000005",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T02:44:00",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000006",
+    "exception_id":"EXC-2026-000006",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T03:06:21",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000007",
+    "exception_id":"EXC-2026-000007",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T03:53:11",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000008",
+    "exception_id":"EXC-2026-000008",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T04:01:11",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000009",
+    "exception_id":"EXC-2026-000009",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T04:15:39",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000010",
+    "exception_id":"EXC-2026-000010",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T05:09:58",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000011",
+    "exception_id":"EXC-2026-000011",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T05:24:51",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000012",
+    "exception_id":"EXC-2026-000012",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T05:48:41",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000013",
+    "exception_id":"EXC-2026-000013",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T05:51:42",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000014",
+    "exception_id":"EXC-2026-000014",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T06:48:14",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000015",
+    "exception_id":"EXC-2026-000015",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T08:11:15",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000016",
+    "exception_id":"EXC-2026-000016",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T08:50:09",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000017",
+    "exception_id":"EXC-2026-000017",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T09:22:24",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000018",
+    "exception_id":"EXC-2026-000018",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T09:28:35",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000019",
+    "exception_id":"EXC-2026-000019",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T10:04:34",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000020",
+    "exception_id":"EXC-2026-000020",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T10:34:01",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000021",
+    "exception_id":"EXC-2026-000021",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T10:42:09",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000022",
+    "exception_id":"EXC-2026-000022",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T11:18:59",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000023",
+    "exception_id":"EXC-2026-000023",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T11:41:05",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000024",
+    "exception_id":"EXC-2026-000024",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:09:55",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000025",
+    "exception_id":"EXC-2026-000025",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:35:52",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000026",
+    "exception_id":"EXC-2026-000026",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:49:25",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000027",
+    "exception_id":"EXC-2026-000027",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:24",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000028",
+    "exception_id":"EXC-2026-000028",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:25",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000029",
+    "exception_id":"EXC-2026-000029",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:26",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000030",
+    "exception_id":"EXC-2026-000030",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:27",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000031",
+    "exception_id":"EXC-2026-000031",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:28",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000032",
+    "exception_id":"EXC-2026-000032",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:29",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000033",
+    "exception_id":"EXC-2026-000033",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:30",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000034",
+    "exception_id":"EXC-2026-000034",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:31",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000035",
+    "exception_id":"EXC-2026-000035",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:32",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000036",
+    "exception_id":"EXC-2026-000036",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:33",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000037",
+    "exception_id":"EXC-2026-000037",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:34",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000038",
+    "exception_id":"EXC-2026-000038",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:35",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000039",
+    "exception_id":"EXC-2026-000039",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:36",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000040",
+    "exception_id":"EXC-2026-000040",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:37",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000041",
+    "exception_id":"EXC-2026-000041",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:38",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000042",
+    "exception_id":"EXC-2026-000042",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:39",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000043",
+    "exception_id":"EXC-2026-000043",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:40",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000044",
+    "exception_id":"EXC-2026-000044",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:41",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000045",
+    "exception_id":"EXC-2026-000045",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:42",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000046",
+    "exception_id":"EXC-2026-000046",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:43",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000047",
+    "exception_id":"EXC-2026-000047",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:44",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000048",
+    "exception_id":"EXC-2026-000048",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:45",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000049",
+    "exception_id":"EXC-2026-000049",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:46",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000050",
+    "exception_id":"EXC-2026-000050",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:47",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000051",
+    "exception_id":"EXC-2026-000051",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:48",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000052",
+    "exception_id":"EXC-2026-000052",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:49",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000053",
+    "exception_id":"EXC-2026-000053",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:50",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000054",
+    "exception_id":"EXC-2026-000054",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:51",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000055",
+    "exception_id":"EXC-2026-000055",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:52",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000056",
+    "exception_id":"EXC-2026-000056",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:53",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000057",
+    "exception_id":"EXC-2026-000057",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:54",
+    "notes":"Initial exception creation"
+  },
+  {
+    "history_id":"HST-2026-000058",
+    "exception_id":"EXC-2026-000058",
+    "old_status":null,
+    "new_status":"open",
+    "changed_by":"SYSTEM",
+    "changed_at":"2026-10-22T13:56:55",
+    "notes":"Initial exception creation"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "generated_at": "2026-11-12T23:18:34.862379",
+  "data_volumes": {
+    "merchants": 2000,
+    "payment_orders": 50000,
+    "attempts": 55000,
+    "settlement_batches": 1000,
+    "bank_lines": 5000
+  },
+  "configuration": {
+    "amount_tolerance": 0.01,
+    "date_window_days": 3,
+    "id_year": "2026"
+  }
+}
